@@ -1,0 +1,6 @@
+key.key
+*.enc
+decrypted_*.txt
+__pycache__/
+*.pyc
+secret.txt
